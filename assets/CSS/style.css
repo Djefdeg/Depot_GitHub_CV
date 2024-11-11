@@ -122,7 +122,6 @@ main h2 {
 
 strong {
     font-family: lato, serif;
-    width: 50%;
     margin-top: 0px;
     margin-bottom: 0px;
     text-align: start;
@@ -151,10 +150,14 @@ section article:first-child p {
     margin-top: 0px;
 }
 
+section strong {
+    width: 60%;
+}
+
 .formation p,
 .stage p,
 .profession p {
-    width: 50%;
+    width: 40%;
     margin-top: 0;
     margin-bottom: 0;
     text-align: end;
@@ -193,8 +196,12 @@ aside article div {
     flex-wrap: wrap;
 }
 
+aside strong {
+    width: 40%;
+}
+
 aside p {
-    width: 50%;
+    width: 60%;
     margin-top: 0;
     margin-bottom: 5px;
     text-align: right;
