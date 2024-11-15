@@ -1,1 +1,1 @@
-Version finale avec données personnel sauf adresse réelle et Numéro de Téléphone
+Version finale avec données personnelles sauf adresse réelle et Numéro de Téléphone
